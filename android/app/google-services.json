@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1005864710046",
+    "project_id": "flutter-food-app-d8374",
+    "storage_bucket": "flutter-food-app-d8374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005864710046:android:d7838fe6ecb1b820de308f",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005864710046-v4h9dihu8jq5c0rr4vjnb7rh8eaajo77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app",
+            "certificate_hash": "36abc2e5562fd5274aaa2e99f54423111457b169"
+          }
+        },
+        {
+          "client_id": "1005864710046-oigjtato3qap888ia088l6rvt23gei5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGa4DVUjlP2Ru_qNQuG6DQ43mj9fn80c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005864710046-oigjtato3qap888ia088l6rvt23gei5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005864710046:android:243021d8d4cb7e06de308f",
+        "android_client_info": {
+          "package_name": "com.example.food_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005864710046-oigjtato3qap888ia088l6rvt23gei5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGa4DVUjlP2Ru_qNQuG6DQ43mj9fn80c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005864710046-oigjtato3qap888ia088l6rvt23gei5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
